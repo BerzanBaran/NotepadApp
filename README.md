@@ -72,4 +72,4 @@
 ⭐ Made with love for organizing your daily life! ⭐
 
 
-![Uploading Ekran görüntüsü 2025-11-09 133320.png…]()
+<img width="1920" height="991" alt="Ekran görüntüsü 2025-11-09 133320" src="https://github.com/user-attachments/assets/65afd1de-01cc-42a7-9757-11321ba03300" />
